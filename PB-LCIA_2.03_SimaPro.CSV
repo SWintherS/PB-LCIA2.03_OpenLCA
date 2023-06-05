@@ -1,0 +1,1759 @@
+{SimaPro 9.2.0.2}
+{methods}
+{Date: 07-03-2022}
+{Time: 08:10:38}
+{Project: Master's thesis 2}
+{CSV Format version: 9.0.0}
+{CSV separator: Semicolon}
+{Decimal separator: .}
+{Date separator: -}
+{Short date format: dd-MM-yyyy}
+{Export platform IDs: No}
+{Selection: Selection (1)}
+{Related objects (system descriptions, substances, units, etc.): Yes}
+{Include sub product stages and processes: No}
+{Open project: 'Master's thesis 2'}
+{Library 'Ecoinvent 3 - allocation, cut-off by classification - unit'}
+{Library 'Methods'}
+
+Method
+
+Name
+PB-LCIA
+
+Version
+2;03
+
+Comment
+
+
+Category
+PB_LCIA_newest
+
+Use Damage Assessment
+No
+
+Use Normalization
+Yes
+
+Use Weighting
+No
+
+Use Addition
+No
+
+Impact category
+Climate change - Energy imbalance;Wm-2
+
+Substances
+Air;(unspecified);Carbon dioxide;000124-38-9;3.53E-13;kg
+Air;low. pop.;Carbon dioxide;000124-38-9;3.53E-13;kg
+Air;(unspecified);Carbon dioxide, fossil;000124-38-9;3.53E-13;kg
+Air;(unspecified);Carbon dioxide, land transformation;000124-38-9;1.18E-15;kg
+Air;low. pop.;Carbon dioxide, land transformation;000124-38-9;1.18E-15;kg
+Air;(unspecified);Carbon monoxide;000630-08-0;2.74E-13;kg
+Air;(unspecified);Carbon monoxide, fossil;000630-08-0;2.74E-13;kg
+Air;(unspecified);Dinitrogen monoxide;010024-97-2;4.64E-11;kg
+Air;(unspecified);Ethane, 1,1,2-trichloro-1,2,2-trifluoro-, CFC-113;000076-13-1;7.65E-10;kg
+Air;(unspecified);Ethane, 1,2-dichloro-1,1,2,2-tetrafluoro-, CFC-114;000076-14-2;1.94E-9;kg
+Air;(unspecified);Ethane, chloropentafluoro-, CFC-115;000076-15-3;7.43E-9;kg
+Air;(unspecified);Methane;000074-82-8;1.59E-12;kg
+Air;(unspecified);Methane, chlorodifluoro-, HCFC-22;000075-45-6;1.63E-10;kg
+Air;(unspecified);Methane, chlorotrifluoro-, CFC-13;000075-72-9;8.61E-9;kg
+Air;(unspecified);Methane, dichlorodifluoro-, CFC-12;000075-71-8;1.49E-9;kg
+Air;(unspecified);Methane, dichlorofluoro-, HCFC-21;000075-43-4;1.39E-11;kg
+Air;(unspecified);Methane, fossil;000074-82-8;1.59E-12;kg
+Air;(unspecified);Methane, trichlorofluoro-, CFC-11;000075-69-4;4.79E-10;kg
+Air;(unspecified);Nitrogen fluoride;007783-54-2;7.92E-9;kg
+Air;(unspecified);NMVOC, non-methane volatile organic compounds, unspecified origin;;1.06E-12;kg
+Air;(unspecified);Sulfur hexafluoride;002551-62-4;6.71E-8;kg
+
+Impact category
+Climate change - CO2 concentration;ppm
+
+Substances
+Air;(unspecified);Carbon dioxide;000124-38-9;2.69E-11;kg
+Air;low. pop.;Carbon dioxide;000124-38-9;2.69E-11;kg
+Air;(unspecified);Carbon dioxide, fossil;000124-38-9;2.69E-11;kg
+Air;(unspecified);Carbon dioxide, land transformation;000124-38-9;8.97E-14;kg
+Air;low. pop.;Carbon dioxide, land transformation;000124-38-9;8.97E-14;kg
+Air;(unspecified);Carbon monoxide;000630-08-0;4.23E-11;kg
+Air;(unspecified);Carbon monoxide, fossil;000630-08-0;4.23E-11;kg
+Air;(unspecified);Methane;000074-82-8;7.4E-11;kg
+Air;(unspecified);Methane, fossil;000074-82-8;7.4E-11;kg
+Air;(unspecified);NMVOC, non-methane volatile organic compounds, unspecified origin;;8.07E-11;kg
+
+Impact category
+Ocean acidification;Omega Aragon
+
+Substances
+Air;(unspecified);Carbon dioxide;000124-38-9;8.22E-14;kg
+Air;(unspecified);Carbon dioxide, biogenic;000124-38-9;0;kg
+Air;(unspecified);Carbon dioxide, fossil;000124-38-9;8.22E-14;kg
+Air;(unspecified);Carbon dioxide, land transformation;000124-38-9;2.74E-16;kg
+Air;(unspecified);Carbon monoxide;000630-08-0;1.29E-13;kg
+Air;(unspecified);Carbon monoxide, fossil;000630-08-0;1.29E-13;kg
+Air;(unspecified);Methane;000074-82-8;2.26E-13;kg
+Air;(unspecified);Methane, fossil;000074-82-8;2.26E-13;kg
+Air;(unspecified);NMVOC, non-methane volatile organic compounds, unspecified origin;;2.47E-13;kg
+
+Impact category
+Stratospheric ozone depletion;DU
+
+Substances
+Air;(unspecified);Ethane, 1-chloro-1,1-difluoro-, HCFC-142b;000075-68-3;6.76E-10;kg
+Air;(unspecified);Ethane, 1,1-dichloro-1-fluoro-, HCFC-141b;001717-00-6;1.07E-9;kg
+Air;(unspecified);Ethane, 1,1,1-trichloro-, HCFC-140;000071-55-6;1.32E-9;kg
+Air;(unspecified);Ethane, 1,1,2-trichloro-1,2,2-trifluoro-, CFC-113;000076-13-1;4.91E-9;kg
+Air;(unspecified);Ethane, 1,2-dibromotetrafluoro-, Halon 2402;000124-73-2;5.39E-8;kg
+Air;(unspecified);Ethane, 1,2-dichloro-1,1,2,2-tetrafluoro-, CFC-114;000076-14-2;3.64E-9;kg
+Air;(unspecified);Ethane, chloropentafluoro-, CFC-115;000076-15-3;3.99E-9;kg
+Air;(unspecified);Methane, bromo-, Halon 1001;000074-83-9;7.46E-9;kg
+Air;(unspecified);Methane, bromochlorodifluoro-, Halon 1211;000353-59-3;5.16E-8;kg
+Air;(unspecified);Methane, bromotrifluoro-, Halon 1301;000075-63-8;0.000000115;kg
+Air;(unspecified);Methane, chlorodifluoro-, HCFC-22;000075-45-6;4.83E-10;kg
+Air;(unspecified);Methane, dibromodifluoro-, Halon 1202;000075-61-6;1.14E-8;kg
+Air;(unspecified);Methane, dichlorodifluoro-, CFC-12;000075-71-8;7.34E-9;kg
+Air;(unspecified);Methane, monochloro-, R-40;000074-87-3;4.03E-10;kg
+Air;(unspecified);Methane, tetrachloro-, CFC-10;000056-23-5;5.74E-9;kg
+Air;(unspecified);Methane, trichlorofluoro-, CFC-11;000075-69-4;7.85E-9;kg
+
+Impact category
+Land-system change - Global;%
+
+Substances
+Raw;(unspecified);Occupation, forest;;0;m2a
+Raw;(unspecified);Occupation, forest, extensive;;0;m2a
+Raw;(unspecified);Occupation, forest, intensive;;0;m2a
+Raw;(unspecified);Occupation, forest, intensive, clear-cutting;;0;m2a
+Raw;(unspecified);Occupation, forest, intensive, normal;;0;m2a
+Raw;(unspecified);Occupation, forest, intensive, short-cycle;;0;m2a
+Raw;(unspecified);Occupation, forest, natural;;0;m2a
+Raw;(unspecified);Occupation, forest, primary;;0;m2a
+Raw;(unspecified);Occupation, forest, secondary;;0;m2a
+Raw;(unspecified);Occupation, forest, unspecified;;0;m2a
+Raw;(unspecified);Transformation, from annual crop, Boreal forest and taiga;;1.56E-12;m2
+Raw;(unspecified);Transformation, from arable;;0;m2
+Raw;(unspecified);Transformation, from arable, non-irrigated;;0;m2
+Raw;(unspecified);Transformation, from arable, non-irrigated, extensive;;0;m2
+Raw;(unspecified);Transformation, from arable, non-irrigated, intensive;;0;m2
+Raw;(unspecified);Transformation, from cropland fallow (non-use);;0;m2
+Raw;(unspecified);Transformation, from dump site, inert material landfill;;0;m2
+Raw;(unspecified);Transformation, from dump site, residual material landfill;;0;m2
+Raw;(unspecified);Transformation, from dump site, sanitary landfill;;0;m2
+Raw;(unspecified);Transformation, from dump site, slag compartment;;0;m2
+Raw;(unspecified);Transformation, from forest;;1.56E-12;m2
+Raw;(unspecified);Transformation, from forest, extensive;;1.56E-12;m2
+Raw;(unspecified);Transformation, from forest, intensive;;1.56E-12;m2
+Raw;(unspecified);Transformation, from forest, intensive, clear-cutting;;1.56E-12;m2
+Raw;(unspecified);Transformation, from forest, intensive, normal;;1.56E-12;m2
+Raw;(unspecified);Transformation, from forest, intensive, short-cycle;;1.56E-12;m2
+Raw;(unspecified);Transformation, from forest, intensive, Temperate;;1.56E-12;m2
+Raw;(unspecified);Transformation, from forest, natural;;1.56E-12;m2
+Raw;(unspecified);Transformation, from forest, primary;;1.56E-12;m2
+Raw;(unspecified);Transformation, from forest, primary (non-use);;1.56E-12;m2
+Raw;(unspecified);Transformation, from forest, secondary;;1.56E-12;m2
+Raw;(unspecified);Transformation, from forest, secondary (non-use);;1.56E-12;m2
+Raw;(unspecified);Transformation, from forest, unspecified;;1.56E-12;m2
+Raw;(unspecified);Transformation, from forest, used;;1.56E-12;m2
+Raw;(unspecified);Transformation, from grassland, not used;;0;m2
+Raw;(unspecified);Transformation, from heterogeneous, agricultural;;0;m2
+Raw;(unspecified);Transformation, from industrial area;;0;m2
+Raw;(unspecified);Transformation, from pasture and meadow;;0;m2
+Raw;(unspecified);Transformation, from pasture and meadow, extensive;;0;m2
+Raw;(unspecified);Transformation, from pasture and meadow, intensive;;0;m2
+Raw;(unspecified);Transformation, from permanent crop;;0;m2
+Raw;(unspecified);Transformation, from sea and ocean;;0;m2
+Raw;(unspecified);Transformation, from shrub land, sclerophyllous;;0;m2
+Raw;(unspecified);Transformation, from tropical rain forest;;1.56E-12;m2
+Raw;(unspecified);Transformation, from unknown;;0;m2
+Raw;(unspecified);Transformation, from wetland, inland (non-use);;0;m2
+Raw;(unspecified);Transformation, to arable;;0;m2
+Raw;(unspecified);Transformation, to arable, fallow;;0;m2
+Raw;(unspecified);Transformation, to forest, extensive;;-1.56E-12;m2
+Raw;(unspecified);Transformation, to forest, intensive;;-1.56E-12;m2
+Raw;(unspecified);Transformation, to forest, intensive, normal;;-1.56E-12;m2
+Raw;(unspecified);Transformation, to forest, natural;;-1.56E-12;m2
+Raw;(unspecified);Transformation, to forest, natural, Boreal;;-1.56E-12;m2
+Raw;(unspecified);Transformation, to forest, natural, Temperate;;-1.56E-12;m2
+Raw;(unspecified);Transformation, to forest, natural, Tropical;;-1.56E-12;m2
+Raw;(unspecified);Transformation, to forest, primary (non-use);;-1.56E-12;m2
+Raw;(unspecified);Transformation, to forest, secondary (non-use);;-1.56E-12;m2
+Raw;(unspecified);Transformation, to forest, unspecified;;-1.56E-12;m2
+Raw;(unspecified);Transformation, to forest, used;;-1.56E-12;m2
+Raw;(unspecified);Transformation, to industrial area, Boreal forest and taiga;;0;m2
+Raw;(unspecified);Transformation, to pasture, man made, Boreal forest and taiga;;0;m2
+Raw;(unspecified);Transformation, to pasture, man made, extensive, Boreal forest and taiga;;0;m2
+Raw;(unspecified);Transformation, to pasture, man made, intensive, Boreal forest and taiga;;0;m2
+Raw;(unspecified);Transformation, to permanent crop;;0;m2
+Raw;(unspecified);Transformation, to permanent crop, Boreal forest and taiga;;0;m2
+Raw;(unspecified);Transformation, to permanent crop, irrigated, Boreal forest and taiga;;0;m2
+Raw;(unspecified);Transformation, to shrub land, sclerophyllous, Boreal forest and taiga;;0;m2
+Raw;(unspecified);Transformation, to traffic area, rail network, Boreal forest and taiga;;0;m2
+Raw;(unspecified);Transformation, to traffic area, road network, Boreal forest and taiga;;0;m2
+Raw;(unspecified);Transformation, to urban, (Sub)trop coniferous forest;;0;m2
+Raw;(unspecified);Transformation, to urban, (Sub)trop dry br.leaf forest;;0;m2
+Raw;(unspecified);Transformation, to urban, (Sub)trop moist br.leaf forest;;0;m2
+Raw;(unspecified);Transformation, to urban, Boreal forest and taiga;;0;m2
+Raw;(unspecified);Transformation, to urban, Medit. forest wood. and scrub;;0;m2
+Raw;(unspecified);Transformation, to urban, Temp br.leaf forest;;0;m2
+Raw;(unspecified);Transformation, to urban, Temp coniferous forest;;0;m2
+
+Impact category
+Freshwater use - Basin semidry;-
+
+Substances
+Raw;(unspecified);Water, cooling, unspecified natural origin, MX;007732-18-5;9.97E-13;m3
+Raw;(unspecified);Water, turbine use, unspecified natural origin, MX;007732-18-5;9.97E-13;m3
+Raw;(unspecified);Water, unspecified natural origin, MX;007732-18-5;9.97E-13;m3
+
+Impact category
+Freshwater use - Basin dry;-
+
+Substances
+Raw;(unspecified);Water, cooling, unspecified natural origin, AU;007732-18-5;1.51E-11;m3
+Raw;(unspecified);Water, turbine use, unspecified natural origin, AU;007732-18-5;1.51E-11;m3
+Raw;(unspecified);Water, unspecified natural origin, AU;007732-18-5;1.51E-11;m3
+
+Impact category
+Freshwater use - Basin humid;-
+
+Substances
+Water;(unspecified);Water, CH;007732-18-5;7.61E-14;m3
+Raw;(unspecified);Water, cooling, unspecified natural origin, AT;007732-18-5;7.61E-14;m3
+Raw;(unspecified);Water, cooling, unspecified natural origin, BE;007732-18-5;7.61E-14;m3
+Raw;(unspecified);Water, cooling, unspecified natural origin, BG;007732-18-5;7.61E-14;m3
+Raw;(unspecified);Water, cooling, unspecified natural origin, BR;007732-18-5;7.61E-14;m3
+Raw;(unspecified);Water, cooling, unspecified natural origin, CA;007732-18-5;7.61E-14;m3
+Raw;(unspecified);Water, cooling, unspecified natural origin, CH;007732-18-5;7.61E-14;m3
+Raw;(unspecified);Water, cooling, unspecified natural origin, CZ;007732-18-5;7.61E-14;m3
+Raw;(unspecified);Water, cooling, unspecified natural origin, DE;007732-18-5;7.61E-14;m3
+Raw;(unspecified);Water, cooling, unspecified natural origin, DK;007732-18-5;7.61E-14;m3
+Raw;(unspecified);Water, cooling, unspecified natural origin, ES;007732-18-5;7.61E-14;m3
+Raw;(unspecified);Water, cooling, unspecified natural origin, FI;007732-18-5;7.61E-14;m3
+Raw;(unspecified);Water, cooling, unspecified natural origin, FR;007732-18-5;7.61E-14;m3
+Raw;(unspecified);Water, cooling, unspecified natural origin, GB;007732-18-5;7.61E-14;m3
+Raw;(unspecified);Water, cooling, unspecified natural origin, GR;007732-18-5;7.61E-14;m3
+Raw;(unspecified);Water, cooling, unspecified natural origin, HR;007732-18-5;7.61E-14;m3
+Raw;(unspecified);Water, cooling, unspecified natural origin, HU;007732-18-5;7.61E-14;m3
+Raw;(unspecified);Water, cooling, unspecified natural origin, IN;007732-18-5;7.61E-14;m3
+Raw;(unspecified);Water, cooling, unspecified natural origin, IT;007732-18-5;7.61E-14;m3
+Raw;(unspecified);Water, cooling, unspecified natural origin, JP;007732-18-5;7.61E-14;m3
+Raw;(unspecified);Water, cooling, unspecified natural origin, LU;007732-18-5;7.61E-14;m3
+Raw;(unspecified);Water, cooling, unspecified natural origin, NL;007732-18-5;7.61E-14;m3
+Raw;(unspecified);Water, cooling, unspecified natural origin, NO;007732-18-5;7.61E-14;m3
+Raw;(unspecified);Water, cooling, unspecified natural origin, NORDEL;007732-18-5;7.61E-14;m3
+Raw;(unspecified);Water, cooling, unspecified natural origin, PL;007732-18-5;7.61E-14;m3
+Raw;(unspecified);Water, cooling, unspecified natural origin, PT;007732-18-5;7.61E-14;m3
+Raw;(unspecified);Water, cooling, unspecified natural origin, RO;007732-18-5;7.61E-14;m3
+Raw;(unspecified);Water, cooling, unspecified natural origin, RoW;007732-18-5;7.61E-14;m3
+Raw;(unspecified);Water, cooling, unspecified natural origin, RS;007732-18-5;7.61E-14;m3
+Raw;(unspecified);Water, cooling, unspecified natural origin, RU;007732-18-5;7.61E-14;m3
+Raw;(unspecified);Water, cooling, unspecified natural origin, SE;007732-18-5;7.61E-14;m3
+Raw;(unspecified);Water, cooling, unspecified natural origin, SI;007732-18-5;7.61E-14;m3
+Raw;(unspecified);Water, cooling, unspecified natural origin, SK;007732-18-5;7.61E-14;m3
+Raw;(unspecified);Water, lake;007732-18-5;7.61E-14;m3
+Raw;(unspecified);Water, lake, AT;007732-18-5;7.61E-14;m3
+Raw;(unspecified);Water, lake, BE;007732-18-5;7.61E-14;m3
+Raw;(unspecified);Water, lake, BG;007732-18-5;7.61E-14;m3
+Raw;(unspecified);Water, lake, CA;007732-18-5;7.61E-14;m3
+Raw;(unspecified);Water, lake, CH;007732-18-5;7.61E-14;m3
+Raw;(unspecified);Water, lake, CZ;007732-18-5;7.61E-14;m3
+Raw;(unspecified);Water, lake, DE;007732-18-5;7.61E-14;m3
+Raw;(unspecified);Water, lake, DK;007732-18-5;7.61E-14;m3
+Raw;(unspecified);Water, lake, ES;007732-18-5;7.61E-14;m3
+Raw;(unspecified);Water, lake, Europe without Switzerland;007732-18-5;7.61E-14;m3
+Raw;(unspecified);Water, lake, FI;007732-18-5;7.61E-14;m3
+Raw;(unspecified);Water, lake, FR;007732-18-5;7.61E-14;m3
+Raw;(unspecified);Water, lake, GB;007732-18-5;7.61E-14;m3
+Raw;(unspecified);Water, lake, HU;007732-18-5;7.61E-14;m3
+Raw;(unspecified);Water, lake, IT;007732-18-5;7.61E-14;m3
+Raw;(unspecified);Water, lake, JP;007732-18-5;7.61E-14;m3
+Raw;(unspecified);Water, lake, LU;007732-18-5;7.61E-14;m3
+Raw;(unspecified);Water, lake, NL;007732-18-5;7.61E-14;m3
+Raw;(unspecified);Water, lake, NO;007732-18-5;7.61E-14;m3
+Raw;(unspecified);Water, lake, NORDEL;007732-18-5;7.61E-14;m3
+Raw;(unspecified);Water, lake, PL;007732-18-5;7.61E-14;m3
+Raw;(unspecified);Water, lake, PT;007732-18-5;7.61E-14;m3
+Raw;(unspecified);Water, lake, RER;007732-18-5;7.61E-14;m3
+Raw;(unspecified);Water, lake, RU;007732-18-5;7.61E-14;m3
+Raw;(unspecified);Water, lake, SE;007732-18-5;7.61E-14;m3
+Raw;(unspecified);Water, lake, SK;007732-18-5;7.61E-14;m3
+Raw;(unspecified);Water, river;007732-18-5;7.61E-14;m3
+Raw;(unspecified);Water, river, AT;007732-18-5;7.61E-14;m3
+Raw;(unspecified);Water, river, AU;007732-18-5;1.51E-11;m3
+Raw;(unspecified);Water, river, BE;007732-18-5;7.61E-14;m3
+Raw;(unspecified);Water, river, BG;007732-18-5;7.61E-14;m3
+Raw;(unspecified);Water, river, BR;007732-18-5;7.61E-14;m3
+Raw;(unspecified);Water, river, CA;007732-18-5;7.61E-14;m3
+Raw;(unspecified);Water, river, CH;007732-18-5;7.61E-14;m3
+Raw;(unspecified);Water, river, CZ;007732-18-5;7.61E-14;m3
+Raw;(unspecified);Water, river, DE;007732-18-5;7.61E-14;m3
+Raw;(unspecified);Water, river, DK;007732-18-5;7.61E-14;m3
+Raw;(unspecified);Water, river, ES;007732-18-5;7.61E-14;m3
+Raw;(unspecified);Water, river, Europe without Switzerland;007732-18-5;7.61E-14;m3
+Raw;(unspecified);Water, river, FI;007732-18-5;7.61E-14;m3
+Raw;(unspecified);Water, river, FR;007732-18-5;7.61E-14;m3
+Raw;(unspecified);Water, river, GB;007732-18-5;7.61E-14;m3
+Raw;(unspecified);Water, river, HU;007732-18-5;7.61E-14;m3
+Raw;(unspecified);Water, river, IT;007732-18-5;7.61E-14;m3
+Raw;(unspecified);Water, river, JP;007732-18-5;7.61E-14;m3
+Raw;(unspecified);Water, river, LU;007732-18-5;7.61E-14;m3
+Raw;(unspecified);Water, river, NL;007732-18-5;7.61E-14;m3
+Raw;(unspecified);Water, river, NO;007732-18-5;7.61E-14;m3
+Raw;(unspecified);Water, river, NORDEL;007732-18-5;7.61E-14;m3
+Raw;(unspecified);Water, river, RER;007732-18-5;7.61E-14;m3
+Raw;(unspecified);Water, river, RO;007732-18-5;7.61E-14;m3
+Raw;(unspecified);Water, river, RoW;007732-18-5;7.61E-14;m3
+Raw;(unspecified);Water, river, RU;007732-18-5;7.61E-14;m3
+Raw;(unspecified);Water, river, SI;007732-18-5;7.61E-14;m3
+Raw;(unspecified);Water, turbine use, unspecified natural origin, AT;007732-18-5;4.14E-16;m3
+Raw;(unspecified);Water, turbine use, unspecified natural origin, AU;007732-18-5;4.14E-16;m3
+Raw;(unspecified);Water, turbine use, unspecified natural origin, BE;007732-18-5;4.14E-16;m3
+Raw;(unspecified);Water, turbine use, unspecified natural origin, BG;007732-18-5;4.14E-16;m3
+Raw;(unspecified);Water, turbine use, unspecified natural origin, BR;007732-18-5;4.14E-16;m3
+Raw;(unspecified);Water, turbine use, unspecified natural origin, CA;007732-18-5;4.14E-16;m3
+Raw;(unspecified);Water, turbine use, unspecified natural origin, CH;007732-18-5;4.14E-16;m3
+Raw;(unspecified);Water, turbine use, unspecified natural origin, CZ;007732-18-5;4.14E-16;m3
+Raw;(unspecified);Water, turbine use, unspecified natural origin, DE;007732-18-5;4.14E-16;m3
+Raw;(unspecified);Water, turbine use, unspecified natural origin, DK;007732-18-5;4.14E-16;m3
+Raw;(unspecified);Water, turbine use, unspecified natural origin, ES;007732-18-5;4.14E-16;m3
+Raw;(unspecified);Water, turbine use, unspecified natural origin, FI;007732-18-5;4.14E-16;m3
+Raw;(unspecified);Water, turbine use, unspecified natural origin, FR;007732-18-5;4.14E-16;m3
+Raw;(unspecified);Water, turbine use, unspecified natural origin, GB;007732-18-5;4.14E-16;m3
+Raw;(unspecified);Water, turbine use, unspecified natural origin, GR;007732-18-5;4.14E-16;m3
+Raw;(unspecified);Water, turbine use, unspecified natural origin, HR;007732-18-5;4.14E-16;m3
+Raw;(unspecified);Water, turbine use, unspecified natural origin, HU;007732-18-5;4.14E-16;m3
+Raw;(unspecified);Water, turbine use, unspecified natural origin, IN;007732-18-5;4.14E-16;m3
+Raw;(unspecified);Water, turbine use, unspecified natural origin, IT;007732-18-5;4.14E-16;m3
+Raw;(unspecified);Water, turbine use, unspecified natural origin, JP;007732-18-5;4.14E-16;m3
+Raw;(unspecified);Water, turbine use, unspecified natural origin, LU;007732-18-5;4.14E-16;m3
+Raw;(unspecified);Water, turbine use, unspecified natural origin, NL;007732-18-5;4.14E-16;m3
+Raw;(unspecified);Water, turbine use, unspecified natural origin, NO;007732-18-5;4.14E-16;m3
+Raw;(unspecified);Water, turbine use, unspecified natural origin, NORDEL;007732-18-5;4.14E-16;m3
+Raw;(unspecified);Water, turbine use, unspecified natural origin, PL;007732-18-5;4.14E-16;m3
+Raw;(unspecified);Water, turbine use, unspecified natural origin, PT;007732-18-5;4.14E-16;m3
+Raw;(unspecified);Water, turbine use, unspecified natural origin, RO;007732-18-5;4.14E-16;m3
+Raw;(unspecified);Water, turbine use, unspecified natural origin, RoW;007732-18-5;4.14E-16;m3
+Raw;(unspecified);Water, turbine use, unspecified natural origin, RS;007732-18-5;4.14E-16;m3
+Raw;(unspecified);Water, turbine use, unspecified natural origin, RU;007732-18-5;4.14E-16;m3
+Raw;(unspecified);Water, turbine use, unspecified natural origin, SE;007732-18-5;4.14E-16;m3
+Raw;(unspecified);Water, turbine use, unspecified natural origin, SI;007732-18-5;4.14E-16;m3
+Raw;(unspecified);Water, turbine use, unspecified natural origin, SK;007732-18-5;4.14E-16;m3
+Raw;(unspecified);Water, unspecified natural origin, AT;007732-18-5;7.61E-14;m3
+Raw;(unspecified);Water, unspecified natural origin, AU;007732-18-5;1.51E-11;m3
+Raw;(unspecified);Water, unspecified natural origin, BE;007732-18-5;7.61E-14;m3
+Raw;(unspecified);Water, unspecified natural origin, BG;007732-18-5;7.61E-14;m3
+Raw;(unspecified);Water, unspecified natural origin, BR;007732-18-5;7.61E-14;m3
+Raw;(unspecified);Water, unspecified natural origin, CA;007732-18-5;7.61E-14;m3
+Raw;(unspecified);Water, unspecified natural origin, CH;007732-18-5;7.61E-14;m3
+Raw;(unspecified);Water, unspecified natural origin, CZ;007732-18-5;7.61E-14;m3
+Raw;(unspecified);Water, unspecified natural origin, DE;007732-18-5;7.61E-14;m3
+Raw;(unspecified);Water, unspecified natural origin, DK;007732-18-5;7.61E-14;m3
+Raw;(unspecified);Water, unspecified natural origin, ES;007732-18-5;7.61E-14;m3
+Raw;(unspecified);Water, unspecified natural origin, FI;007732-18-5;7.61E-14;m3
+Raw;(unspecified);Water, unspecified natural origin, GB;007732-18-5;7.61E-14;m3
+Raw;(unspecified);Water, unspecified natural origin, HR;007732-18-5;7.61E-14;m3
+Raw;(unspecified);Water, unspecified natural origin, HU;007732-18-5;7.61E-14;m3
+Raw;(unspecified);Water, unspecified natural origin, IT;007732-18-5;7.61E-14;m3
+Raw;(unspecified);Water, unspecified natural origin, JP;007732-18-5;7.61E-14;m3
+Raw;(unspecified);Water, unspecified natural origin, LU;007732-18-5;7.61E-14;m3
+Raw;(unspecified);Water, unspecified natural origin, NL;007732-18-5;7.61E-14;m3
+Raw;(unspecified);Water, unspecified natural origin, NO;007732-18-5;7.61E-14;m3
+Raw;(unspecified);Water, unspecified natural origin, PL;007732-18-5;7.61E-14;m3
+Raw;(unspecified);Water, unspecified natural origin, PT;007732-18-5;7.61E-14;m3
+Raw;(unspecified);Water, unspecified natural origin, RO;007732-18-5;7.61E-14;m3
+Raw;(unspecified);Water, unspecified natural origin, RS;007732-18-5;7.61E-14;m3
+Raw;(unspecified);Water, unspecified natural origin, RU;007732-18-5;7.61E-14;m3
+Raw;(unspecified);Water, unspecified natural origin, SE;007732-18-5;7.61E-14;m3
+Raw;(unspecified);Water, unspecified natural origin, SK;007732-18-5;7.61E-14;m3
+
+Impact category
+Atmospheric aerosol loading;AOD
+
+Substances
+Air;(unspecified);Carbon;007440-44-0;1.07E-13;kg
+Air;(unspecified);Carbon black;001333-86-4;1.11E-13;kg
+Air;(unspecified);Dimethyl sulfide;000075-18-3;2.49E-14;kg
+Air;(unspecified);Nitrate;014797-55-8;9.73E-14;kg
+Air;(unspecified);Nitrogen dioxide;010102-44-0;3.67E-14;kg
+Air;high. pop.;Nitrogen dioxide;010102-44-0;3.67E-14;kg
+Air;(unspecified);Nitrogen oxides;011104-93-1;3.67E-14;kg
+Air;high. pop.;Nitrogen oxides;011104-93-1;3.67E-14;kg
+Air;(unspecified);NMVOC, non-methane volatile organic compounds, unspecified origin;;1.93E-14;kg
+Air;low. pop.;NMVOC, non-methane volatile organic compounds, unspecified origin;;1.93E-14;kg
+Air;high. pop.;NMVOC, non-methane volatile organic compounds, unspecified origin;;4.83E-15;kg
+Air;(unspecified);Organic carbon;;1.07E-13;kg
+Air;(unspecified);Particulates, < 10 um, land transformation;;3.23E-17;kg
+Air;(unspecified);Particulates, < 2.5 um;;1.08E-11;kg
+Air;(unspecified);Particulates, < 2.5 um, land transformation;;3.6E-14;kg
+Air;(unspecified);Particulates, > 10 um;;9.69E-15;kg
+Air;(unspecified);Particulates, > 2.5 um, and < 10 um, land transformation;;1.73E-15;kg
+Air;(unspecified);Particulates, > 2.5 um, and < 10um;;5.2E-13;kg
+Air;(unspecified);Sulfate;018785-72-3;1.67E-13;kg
+Air;(unspecified);Sulfur dioxide;007446-09-5;6.84E-14;kg
+Air;(unspecified);TOC, Total Organic Carbon;007440-44-0;1.07E-13;kg
+
+Impact category
+Biogeochemical flows - Regional P;Tg P
+
+Substances
+Water;river;Phosphate;014265-44-2;1.20204E-8;kg
+Water;(unspecified);Phosphorus;007723-14-0;3.69E-8;kg
+Water;river;Phosphorus;007723-14-0;3.69E-8;kg
+Water;river;Phosphorus compounds, unspecified;;3.69E-8;kg
+Water;(unspecified);Phosphorus, total;;3.69E-8;kg
+Water;river;Phosphorus, total;;3.69E-8;kg
+Water;(unspecified);Phosphorus, total from WWTP;;1.03E-7;kg
+Water;river;Phosphorus, total from WWTP;;1.03E-7;kg
+
+Impact category
+Biogeochemical flows - N;Tg N
+
+Substances
+Water;(unspecified);Nitrate;014797-55-8;5.51E-9;kg
+Water;groundwater;Nitrate;014797-55-8;6.45E-10;kg
+Water;lake;Nitrate;014797-55-8;5.51E-9;kg
+Water;river;Nitrate;014797-55-8;5.51E-9;kg
+Air;(unspecified);Nitrogen dioxide;010102-44-0;8.22E-10;kg
+Air;(unspecified);Nitrogen monoxide;010102-43-9;8.22E-10;kg
+Air;(unspecified);Nitrogen oxides;011104-93-1;8.22E-10;kg
+Water;(unspecified);Nitrogen, total;;2.44E-8;kg
+Water;river;Nitrogen, total;;2.44E-8;kg
+Water;(unspecified);Nitrogen, total from WWTP;;1.02E-8;kg
+Water;river;Nitrogen, total from WWTP;;1.02E-8;kg
+
+Impact category
+Land-system change - Boreal;%
+
+Substances
+Raw;(unspecified);Transformation, from forest, extensive, Boreal to forest and taiga;;4.44E-12;m2
+Raw;(unspecified);Transformation, from forest, intensive, Boreal to forest and taiga;;4.44E-12;m2
+
+Impact category
+Land-system change - Tropic;%
+
+Substances
+Raw;(unspecified);Transformation, from forest, extensive;;4.41E-12;m2
+Raw;(unspecified);Transformation, from forest, intensive;;4.41E-12;m2
+Raw;(unspecified);Transformation, from forest, primary;;4.41E-12;m2
+Raw;(unspecified);Transformation, from tropical rain forest;;4.41E-12;m2
+
+Impact category
+Land-system change - Temperate;%
+
+Substances
+Raw;(unspecified);Transformation, from forest, intensive, Temperate;;5.26E-12;m2
+Raw;(unspecified);Transformation, to forest, intensive, Temperate;;-5.26E-12;m2
+Raw;(unspecified);Transformation, to forest, natural, Temperate;;-5.26E-12;m2
+
+Impact category
+Freshwater use - Global;km3
+
+Substances
+Raw;(unspecified);Water, lake;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake,  Europe without Switzerland;;0.000000001;m3
+Raw;(unspecified);Water, lake, AD;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, AE;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, AF;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, AFR;;0.000000001;m3
+Raw;(unspecified);Water, lake, AG;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, AL;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, AM;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, AO;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, AR;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, AT;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, AU;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, AZ;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, BA;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, BB;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, BD;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, BE;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, BF;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, BG;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, BH;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, BI;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, BJ;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, BN;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, BO;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, BR;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, BS;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, BT;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, BW;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, BY;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, BZ;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, CA;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, CD;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, CF;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, CG;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, CH;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, CI;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, CL;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, CM;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, CN;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, CO;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, CPA;;0.000000001;m3
+Raw;(unspecified);Water, lake, CR;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, CS;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, CU;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, CV;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, CY;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, CZ;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, DE;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, DJ;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, DK;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, DM;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, DO;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, DZ;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, EC;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, EE;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, EEU;;0.000000001;m3
+Raw;(unspecified);Water, lake, EG;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, EH;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, ER;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, ES;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, ET;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, Europe without Switzerland;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, FI;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, FJ;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, FK;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, FR;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, FSU;;0.000000001;m3
+Raw;(unspecified);Water, lake, GA;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, GB;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, GD;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, GE;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, GF;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, GH;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, GL;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, GLO;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, GM;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, GN;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, GP;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, GQ;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, GR;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, GT;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, GW;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, GY;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, HK;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, HN;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, HR;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, HT;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, HU;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, ID;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, IE;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, IL;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, IM;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, IN;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, IQ;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, IR;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, IS;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, IT;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, JM;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, JO;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, JP;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, KE;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, KG;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, KH;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, KM;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, KP;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, KR;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, KW;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, KZ;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, LA;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, LB;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, LI;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, LK;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, LR;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, LS;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, LT;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, LU;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, LV;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, LY;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, MA;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, MC;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, MD;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, MEA;;0.000000001;m3
+Raw;(unspecified);Water, lake, MG;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, MK;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, ML;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, MM;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, MN;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, MO;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, MQ;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, MR;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, MT;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, MU;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, MV;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, MW;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, MX;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, MY;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, MZ;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, NA;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, NC;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, NE;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, NG;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, NI;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, NL;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, NO;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, NORDEL;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, NP;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, NZ;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, OCE;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, OM;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, PA;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, PAO;;0.000000001;m3
+Raw;(unspecified);Water, lake, PAS;;0.000000001;m3
+Raw;(unspecified);Water, lake, PE;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, PF;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, PG;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, PH;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, PK;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, PL;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, PR;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, PS;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, PT;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, PY;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, QA;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, quality S1;;0.000000001;m3
+Raw;(unspecified);Water, lake, quality S2a;;0.000000001;m3
+Raw;(unspecified);Water, lake, quality S2b;;0.000000001;m3
+Raw;(unspecified);Water, lake, quality S2c;;0.000000001;m3
+Raw;(unspecified);Water, lake, quality S2d;;0.000000001;m3
+Raw;(unspecified);Water, lake, quality S3;;0.000000001;m3
+Raw;(unspecified);Water, lake, quality S4;;0.000000001;m3
+Raw;(unspecified);Water, lake, quality S5;;0.000000001;m3
+Raw;(unspecified);Water, lake, RAF;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, RAS;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, RE;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, RER;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, RLA;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, RME;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, RNA;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, RNE;;0.000000001;m3
+Raw;(unspecified);Water, lake, RO;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, RoW;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, RU;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, RW;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, SA;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, SAS;;0.000000001;m3
+Raw;(unspecified);Water, lake, SB;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, SD;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, SE;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, SG;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, SI;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, SJ;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, SK;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, SL;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, SM;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, SN;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, SO;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, SR;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, ST;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, SV;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, SY;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, SZ;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, TD;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, TF;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, TG;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, TH;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, TJ;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, TL;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, TM;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, TN;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, TO;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, TR;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, TT;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, TW;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, TZ;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, UA;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, UG;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, US;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, UY;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, UZ;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, VE;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, VN;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, VU;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, WEU;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, WS;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, YE;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, ZA;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, ZM;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, lake, ZW;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river,  Europe without Switzerland;;0.000000001;m3
+Raw;(unspecified);Water, river, AD;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, AE;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, AF;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, AFR;;0.000000001;m3
+Raw;(unspecified);Water, river, AG;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, AL;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, AM;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, AO;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, AR;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, AT;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, AU;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, AZ;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, BA;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, BB;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, BD;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, BE;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, BF;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, BG;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, BH;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, BI;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, BJ;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, BN;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, BO;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, BR;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, BS;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, BT;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, BW;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, BY;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, BZ;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, CA;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, CD;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, CF;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, CG;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, CH;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, CI;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, CL;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, CM;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, CN;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, CO;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, CPA;;0.000000001;m3
+Raw;(unspecified);Water, river, CR;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, CS;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, CU;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, CV;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, CY;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, CZ;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, DE;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, DJ;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, DK;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, DM;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, DO;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, DZ;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, EC;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, EE;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, EEU;;0.000000001;m3
+Raw;(unspecified);Water, river, EG;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, EH;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, ER;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, ES;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, ET;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, Europe without Switzerland;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, FI;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, FJ;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, FK;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, FR;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, FSU;;0.000000001;m3
+Raw;(unspecified);Water, river, GA;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, GB;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, GD;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, GE;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, GF;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, GH;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, GL;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, GLO;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, GM;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, GN;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, GP;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, GQ;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, GR;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, GT;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, GW;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, GY;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, HK;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, HN;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, HR;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, HT;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, HU;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, ID;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, IE;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, IL;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, IM;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, IN;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, IQ;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, IR;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, IS;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, IT;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, JM;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, JO;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, JP;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, KE;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, KG;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, KH;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, KM;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, KP;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, KR;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, KW;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, KZ;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, LA;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, LB;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, LI;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, LK;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, LR;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, LS;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, LT;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, LU;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, LV;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, LY;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, MA;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, MC;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, MD;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, MEA;;0.000000001;m3
+Raw;(unspecified);Water, river, MG;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, MK;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, ML;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, MM;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, MN;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, MO;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, MQ;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, MR;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, MT;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, MU;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, MV;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, MW;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, MX;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, MY;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, MZ;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, NA;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, NC;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, NE;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, NG;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, NI;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, NL;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, NO;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, NORDEL;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, NP;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, NZ;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, OCE;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, OM;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, PA;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, PAO;;0.000000001;m3
+Raw;(unspecified);Water, river, PAS;;0.000000001;m3
+Raw;(unspecified);Water, river, PE;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, PF;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, PG;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, PH;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, PK;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, PL;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, PR;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, PS;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, PT;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, PY;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, QA;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, quality S1;;0.000000001;m3
+Raw;(unspecified);Water, river, quality S2a;;0.000000001;m3
+Raw;(unspecified);Water, river, quality S2b;;0.000000001;m3
+Raw;(unspecified);Water, river, quality S2c;;0.000000001;m3
+Raw;(unspecified);Water, river, quality S2d;;0.000000001;m3
+Raw;(unspecified);Water, river, quality S3;;0.000000001;m3
+Raw;(unspecified);Water, river, quality S4;;0.000000001;m3
+Raw;(unspecified);Water, river, quality S5;;0.000000001;m3
+Raw;(unspecified);Water, river, RAF;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, RAS;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, RE;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, RER;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, RLA;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, RME;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, RNA;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, RNE;;0.000000001;m3
+Raw;(unspecified);Water, river, RO;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, RoW;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, RU;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, RW;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, SA;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, SAS;;0.000000001;m3
+Raw;(unspecified);Water, river, SB;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, SD;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, SE;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, SG;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, SI;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, SJ;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, SK;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, SL;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, SM;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, SN;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, SO;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, SR;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, ST;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, SV;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, SY;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, SZ;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, TD;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, TF;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, TG;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, TH;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, TJ;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, TL;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, TM;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, TN;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, TO;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, TR;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, TT;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, TW;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, TZ;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, UA;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, UG;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, US;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, UY;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, UZ;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, VE;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, VN;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, VU;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, WEU;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, WS;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, YE;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, ZA;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, ZM;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, river, ZW;007732-18-5;0.000000001;m3
+Raw;(unspecified);Water, well, in ground;;0.000000001;m3
+Raw;(unspecified);Water, well, in ground, CN;;0.000000001;m3
+Raw;(unspecified);Water, well, in ground, DK;;0.000000001;m3
+Raw;(unspecified);Water, well, in ground, Europe without Switzerland;;0.000000001;m3
+
+Normalization-Weighting set
+Full safe operating space
+
+Normalization
+Climate change - Energy imbalance;1
+Climate change - CO2 concentration;0.013888889
+Ocean acidification;1.449275362
+Stratospheric ozone depletion;0.066666667
+Land-system change - Global;0.04
+Freshwater use - Basin semidry;1
+Freshwater use - Basin dry;1
+Freshwater use - Basin humid;1
+Atmospheric aerosol loading;9.090909091
+Biogeochemical flows - Regional P;0.161290323
+Biogeochemical flows - N;0.016129032
+Land-system change - Boreal;0.066666667
+Land-system change - Tropic;0.066666667
+Land-system change - Temperate;0.02
+Freshwater use - Global;0.00025
+
+Normalization-Weighting set
+Safe operating space, per capita to DK
+
+Normalization
+Climate change - Energy imbalance;1326.441973
+Climate change - CO2 concentration;18.42280518
+Ocean acidification;1922.379671
+Stratospheric ozone depletion;88.42946486
+Land-system change - Global;53.05767891
+Freshwater use - Basin semidry;1326.441973
+Freshwater use - Basin dry;1326.441973
+Freshwater use - Basin humid;1326.441973
+Atmospheric aerosol loading;12058.56339
+Biogeochemical flows - Regional P;213.9422537
+Biogeochemical flows - N;21.39422537
+Land-system change - Boreal;88.42946486
+Land-system change - Tropic;88.42946486
+Land-system change - Temperate;26.52883946
+Freshwater use - Global;0.331610493
+
+End
+
+Quantities
+Mass;Yes
+Indicator;Yes
+Volume;Yes
+Area;Yes
+Land use;Yes
+
+End
+
+
+Units
+kg;Mass;1;kg
+Pt;Indicator;1;Pt
+g;Mass;0.001;kg
+l;Volume;0.001;m3
+m3;Volume;1;m3
+ton;Mass;1000;kg
+µg;Mass;0.000000001;kg
+mg;Mass;0.000001;kg
+cm3;Volume;0.000001;m3
+mm3;Volume;0.000000001;m3
+Mtn;Mass;1000000000;kg
+µPt;Indicator;0.000001;Pt
+nPt;Indicator;0.000000001;Pt
+kPt;Indicator;1000;Pt
+MPt;Indicator;1000000;Pt
+GPt;Indicator;1000000000;Pt
+kton;Mass;1000000;kg
+ng;Mass;1.0E-12;kg
+mPt;Indicator;0.001;Pt
+pg;Mass;1.0E-15;kg
+lb;Mass;0.4535924;kg
+gal*;Volume;0.003785412;m3
+cuft;Volume;0.02831685;m3
+oz;Mass;0.02834952;kg
+cu.in;Volume;1.638706E-5;m3
+cu.yd;Volume;0.7645549;m3
+tn.sh;Mass;907.1848;kg
+tn.lg;Mass;1016.047;kg
+m2;Area;1;m2
+cm2;Area;0.0001;m2
+dm2;Area;0.01;m2
+mm2;Area;0.000001;m2
+m2a;Land use;1;m2a
+cm2a;Land use;0.0001;m2a
+mm2a;Land use;0.000001;m2a
+km2a;Land use;1000000;m2a
+km2;Area;1000000;m2
+acre;Area;4046.856;m2
+sq.yd;Area;0.8361273;m2
+sq.ft;Area;9.290304E-2;m2
+sq.in;Area;6.4516E-4;m2
+sq.mi;Area;2589988;m2
+dm3;Volume;0.001;m3
+ha;Area;10E3;m2
+ha a;Land use;10000;m2a
+Nm3;Volume;1;m3
+tOM;Mass;1000;kg
+tMS;Mass;1000;kg
+tMB;Mass;1000;kg
+T;Mass;1000;kg
+t;Mass;1000;kg
+bushel;Volume;0.0352;m3
+aaa;Mass;1;kg
+gal;Volume;0.003785412;m3
+ml;Volume;0.000001;m3
+Ml;Volume;1000;m3
+kl;Volume;1;m3
+Gl;Volume;1000000;m3
+Tl;Volume;1000000000;m3
+Mm3;Volume;1000000;m3
+Gm3;Volume;1000000000;m3
+Mg;Mass;1000;kg
+m3/g;Mass;1.0E-3;kg
+tonne;Mass;1000;kg
+Mt;Mass;1000000000;kg
+kt;Mass;1000000;kg
+‘g;Mass;0.000000001;kg
+CCF;Volume;2.831685;m3
+m2*year;Area;1;m2
+g/m3;Mass;1;kg
+ha.yr;Land use;10000;m2a
+ML;Volume;1000;m3
+TL;Volume;1000000000;m3
+GL;Volume;1000000;m3
+eg;Mass;0.000000001;kg
+æg;Mass;0.000000001;kg
+ktk;Mass;1000;kg
+m3M;Volume;1000000;m3
+z;Mass;0.02834952;kg
+
+End
+
+
+Raw materials
+Occupation, forest;m2a;;
+Occupation, forest, extensive;m2a;;Formula: CORINE 31a
+Occupation, forest, intensive;m2a;;Formula: CORINE 31b
+Occupation, forest, intensive, clear-cutting;m2a;;Formula: CORINE 31b2
+Occupation, forest, intensive, normal;m2a;;Formula: CORINE 31b1
+Occupation, forest, intensive, short-cycle;m2a;;Formula: CORINE 31b3
+Occupation, forest, natural;m2a;;
+Occupation, forest, primary;m2a;;
+Occupation, forest, secondary;m2a;;
+Occupation, forest, unspecified;m2a;;
+Transformation, from annual crop, Boreal forest and taiga;m2;;
+Transformation, from arable;m2;;
+Transformation, from arable, non-irrigated;m2;;
+Transformation, from arable, non-irrigated, extensive;m2;;
+Transformation, from arable, non-irrigated, intensive;m2;;
+Transformation, from cropland fallow (non-use);m2;;
+Transformation, from dump site, inert material landfill;m2;;Formula: CORINE 132e
+Transformation, from dump site, residual material landfill;m2;;Formula: CORINE 132d
+Transformation, from dump site, sanitary landfill;m2;;Formula: CORINE 132b
+Transformation, from dump site, slag compartment;m2;;Formula: CORINE 132c
+Transformation, from forest;m2;;
+Transformation, from forest, extensive;m2;;Formula: CORINE 31a
+Transformation, from forest, extensive, Boreal to forest and taiga;m2;;
+Transformation, from forest, intensive;m2;;Formula: CORINE 31b
+Transformation, from forest, intensive, Boreal to forest and taiga;m2;;
+Transformation, from forest, intensive, clear-cutting;m2;;Formula: CORINE 31b2
+Transformation, from forest, intensive, normal;m2;;Formula: CORINE 31b1
+Transformation, from forest, intensive, short-cycle;m2;;Formula: CORINE 31b3
+Transformation, from forest, intensive, Temperate;m2;;
+Transformation, from forest, natural;m2;;
+Transformation, from forest, primary;m2;;
+Transformation, from forest, primary (non-use);m2;;
+Transformation, from forest, secondary;m2;;
+Transformation, from forest, secondary (non-use);m2;;
+Transformation, from forest, unspecified;m2;;
+Transformation, from forest, used;m2;;
+Transformation, from grassland, not used;m2;;
+Transformation, from heterogeneous, agricultural;m2;;Formula: CORINE 243a
+Transformation, from industrial area;m2;;Formula: CORINE 121
+Transformation, from pasture and meadow;m2;;
+Transformation, from pasture and meadow, extensive;m2;;
+Transformation, from pasture and meadow, intensive;m2;;
+Transformation, from permanent crop;m2;;Formula: CORINE 22
+Transformation, from sea and ocean;m2;;
+Transformation, from shrub land, sclerophyllous;m2;;Formula: CORINE 323
+Transformation, from tropical rain forest;m2;;
+Transformation, from unknown;m2;;Formula: CORINE x
+Transformation, from wetland, inland (non-use);m2;;
+Transformation, to arable;m2;;
+Transformation, to arable, fallow;m2;;
+Transformation, to forest, extensive;m2;;Formula: CORINE 31a
+Transformation, to forest, intensive;m2;;Formula: CORINE 31b
+Transformation, to forest, intensive, normal;m2;;Formula: CORINE 31b1
+Transformation, to forest, intensive, Temperate;m2;;
+Transformation, to forest, natural;m2;;
+Transformation, to forest, natural, Boreal;m2;;
+Transformation, to forest, natural, Temperate;m2;;
+Transformation, to forest, natural, Tropical;m2;;
+Transformation, to forest, primary (non-use);m2;;
+Transformation, to forest, secondary (non-use);m2;;
+Transformation, to forest, unspecified;m2;;
+Transformation, to forest, used;m2;;
+Transformation, to industrial area, Boreal forest and taiga;m2;;
+Transformation, to pasture, man made, Boreal forest and taiga;m2;;
+Transformation, to pasture, man made, extensive, Boreal forest and taiga;m2;;
+Transformation, to pasture, man made, intensive, Boreal forest and taiga;m2;;
+Transformation, to permanent crop;m2;;Formula: CORINE 22
+Transformation, to permanent crop, Boreal forest and taiga;m2;;
+Transformation, to permanent crop, irrigated, Boreal forest and taiga;m2;;
+Transformation, to shrub land, sclerophyllous, Boreal forest and taiga;m2;;
+Transformation, to traffic area, rail network, Boreal forest and taiga;m2;;
+Transformation, to traffic area, road network, Boreal forest and taiga;m2;;
+Transformation, to urban, (Sub)trop coniferous forest;m2;;
+Transformation, to urban, (Sub)trop dry br.leaf forest;m2;;
+Transformation, to urban, (Sub)trop moist br.leaf forest;m2;;
+Transformation, to urban, Boreal forest and taiga;m2;;
+Transformation, to urban, Medit. forest wood. and scrub;m2;;
+Transformation, to urban, Temp br.leaf forest;m2;;
+Transformation, to urban, Temp coniferous forest;m2;;
+Water, cooling, unspecified natural origin, AT;m3;007732-18-5;AT = Austria
+Water, cooling, unspecified natural origin, AU;m3;007732-18-5;AU = Australia
+Water, cooling, unspecified natural origin, BE;m3;007732-18-5;BE = Belgium
+Water, cooling, unspecified natural origin, BG;m3;007732-18-5;BG = Bulgaria
+Water, cooling, unspecified natural origin, BR;m3;007732-18-5;BR = Brazil
+Water, cooling, unspecified natural origin, CA;m3;007732-18-5;CA = Canada
+Water, cooling, unspecified natural origin, CH;m3;007732-18-5;CH = Switzerland
+Water, cooling, unspecified natural origin, CZ;m3;007732-18-5;CZ = Czech Republic
+Water, cooling, unspecified natural origin, DE;m3;007732-18-5;DE = Germany
+Water, cooling, unspecified natural origin, DK;m3;007732-18-5;DK = Denmark
+Water, cooling, unspecified natural origin, ES;m3;007732-18-5;ES = Spain
+Water, cooling, unspecified natural origin, FI;m3;007732-18-5;FI = Finland
+Water, cooling, unspecified natural origin, FR;m3;007732-18-5;FR = France
+Water, cooling, unspecified natural origin, GB;m3;007732-18-5;GB = United Kingdom
+Water, cooling, unspecified natural origin, GR;m3;007732-18-5;GR = Greece
+Water, cooling, unspecified natural origin, HR;m3;007732-18-5;HR = Croatia
+Water, cooling, unspecified natural origin, HU;m3;007732-18-5;HU = Hungary
+Water, cooling, unspecified natural origin, IN;m3;007732-18-5;IN = India
+Water, cooling, unspecified natural origin, IT;m3;007732-18-5;IT = Italy
+Water, cooling, unspecified natural origin, JP;m3;007732-18-5;JP = Japan
+Water, cooling, unspecified natural origin, LU;m3;007732-18-5;LU = Luxembourg
+Water, cooling, unspecified natural origin, MX;m3;007732-18-5;MX = Mexico
+Water, cooling, unspecified natural origin, NL;m3;007732-18-5;NL = Netherlands
+Water, cooling, unspecified natural origin, NO;m3;007732-18-5;NO = Norway
+Water, cooling, unspecified natural origin, NORDEL;m3;007732-18-5;NORDEL = Nordic Countries Power Association
+Water, cooling, unspecified natural origin, PL;m3;007732-18-5;PL = Poland
+Water, cooling, unspecified natural origin, PT;m3;007732-18-5;PT = Portugal
+Water, cooling, unspecified natural origin, RO;m3;007732-18-5;RO = Romania
+Water, cooling, unspecified natural origin, RoW;m3;007732-18-5;RoW = Rest-of-World
+Water, cooling, unspecified natural origin, RS;m3;007732-18-5;RS = Serbia
+Water, cooling, unspecified natural origin, RU;m3;007732-18-5;RU = Russian Federation
+Water, cooling, unspecified natural origin, SE;m3;007732-18-5;SE = Sweden
+Water, cooling, unspecified natural origin, SI;m3;007732-18-5;SI = Slovenia
+Water, cooling, unspecified natural origin, SK;m3;007732-18-5;SK = Slovakia
+Water, lake;m3;007732-18-5;
+Water, lake,  Europe without Switzerland;m3;;
+Water, lake, AD;m3;007732-18-5;AD = Andorra
+Water, lake, AE;m3;007732-18-5;AE = United Arab Emirates
+Water, lake, AF;m3;007732-18-5;AF = Afghanistan
+Water, lake, AFR;m3;;
+Water, lake, AG;m3;007732-18-5;AG = Antigua and Barbuda
+Water, lake, AL;m3;007732-18-5;AL = Albania
+Water, lake, AM;m3;007732-18-5;AM = Armenia
+Water, lake, AO;m3;007732-18-5;AO = Angola
+Water, lake, AR;m3;007732-18-5;AR = Argentina
+Water, lake, AT;m3;007732-18-5;AT = Austria
+Water, lake, AU;m3;007732-18-5;AU = Australia
+Water, lake, AZ;m3;007732-18-5;AZ = Azerbaijan
+Water, lake, BA;m3;007732-18-5;BA = Bosnia and Herzegovina
+Water, lake, BB;m3;007732-18-5;BB = Barbados
+Water, lake, BD;m3;007732-18-5;BD = Bangladesh
+Water, lake, BE;m3;007732-18-5;BE = Belgium
+Water, lake, BF;m3;007732-18-5;BF = Burkina Faso
+Water, lake, BG;m3;007732-18-5;BG = Bulgaria
+Water, lake, BH;m3;007732-18-5;BH = Bahrain
+Water, lake, BI;m3;007732-18-5;BI = Burundi
+Water, lake, BJ;m3;007732-18-5;BJ = Benin
+Water, lake, BN;m3;007732-18-5;BN = Brunei Darussalam
+Water, lake, BO;m3;007732-18-5;BO = Bolivia, Plurinational State of
+Water, lake, BR;m3;007732-18-5;BR = Brazil
+Water, lake, BS;m3;007732-18-5;BS = Bahamas
+Water, lake, BT;m3;007732-18-5;BT = Bhutan
+Water, lake, BW;m3;007732-18-5;BW = Botswana
+Water, lake, BY;m3;007732-18-5;BY = Belarus
+Water, lake, BZ;m3;007732-18-5;BZ = Belize
+Water, lake, CA;m3;007732-18-5;CA = Canada
+Water, lake, CD;m3;007732-18-5;CD = Congo, Democratic Republic of the
+Water, lake, CF;m3;007732-18-5;CF = Central African Republic
+Water, lake, CG;m3;007732-18-5;CG = Congo
+Water, lake, CH;m3;007732-18-5;CH = Switzerland
+Water, lake, CI;m3;007732-18-5;CI = Cote d'Ivoire
+Water, lake, CL;m3;007732-18-5;CL = Chile
+Water, lake, CM;m3;007732-18-5;CM = Cameroon
+Water, lake, CN;m3;007732-18-5;CN = China
+Water, lake, CO;m3;007732-18-5;CO = Colombia
+Water, lake, CPA;m3;;
+Water, lake, CR;m3;007732-18-5;CR = Costa Rica
+Water, lake, CS;m3;007732-18-5;CS = Serbia and Montenegro
+Water, lake, CU;m3;007732-18-5;CU = Cuba
+Water, lake, CV;m3;007732-18-5;CV = Cape Verde
+Water, lake, CY;m3;007732-18-5;CY = Cyprus
+Water, lake, CZ;m3;007732-18-5;CZ = Czech Republic
+Water, lake, DE;m3;007732-18-5;DE = Germany
+Water, lake, DJ;m3;007732-18-5;DJ = Djibouti
+Water, lake, DK;m3;007732-18-5;DK = Denmark
+Water, lake, DM;m3;007732-18-5;DM = Dominica
+Water, lake, DO;m3;007732-18-5;DO = Dominican Republic
+Water, lake, DZ;m3;007732-18-5;DZ = Algeria
+Water, lake, EC;m3;007732-18-5;EC = Ecuador
+Water, lake, EE;m3;007732-18-5;EE = Estonia
+Water, lake, EEU;m3;;
+Water, lake, EG;m3;007732-18-5;EG = Egypt
+Water, lake, EH;m3;007732-18-5;EH = Western Sahara
+Water, lake, ER;m3;007732-18-5;ER = Eritrea
+Water, lake, ES;m3;007732-18-5;ES = Spain
+Water, lake, ET;m3;007732-18-5;ET = Ethiopia
+Water, lake, Europe without Switzerland;m3;007732-18-5;Europe without Switzerland = Europe without Switzerland
+Water, lake, FI;m3;007732-18-5;FI = Finland
+Water, lake, FJ;m3;007732-18-5;FJ = Fiji
+Water, lake, FK;m3;007732-18-5;FK = Falkland Islands (Malvinas)
+Water, lake, FR;m3;007732-18-5;FR = France
+Water, lake, FSU;m3;;
+Water, lake, GA;m3;007732-18-5;GA = Gabon
+Water, lake, GB;m3;007732-18-5;GB = United Kingdom
+Water, lake, GD;m3;007732-18-5;GD = Grenada
+Water, lake, GE;m3;007732-18-5;GE = Georgia
+Water, lake, GF;m3;007732-18-5;GF = French Guiana
+Water, lake, GH;m3;007732-18-5;GH = Ghana
+Water, lake, GL;m3;007732-18-5;GL = Greenland
+Water, lake, GLO;m3;007732-18-5;GLO = Global
+Water, lake, GM;m3;007732-18-5;GM = Gambia
+Water, lake, GN;m3;007732-18-5;GN = Guinea
+Water, lake, GP;m3;007732-18-5;GP = Guadeloupe
+Water, lake, GQ;m3;007732-18-5;GQ = Equatorial Guinea
+Water, lake, GR;m3;007732-18-5;GR = Greece
+Water, lake, GT;m3;007732-18-5;GT = Guatemala
+Water, lake, GW;m3;007732-18-5;GW = Guinea-Bissau
+Water, lake, GY;m3;007732-18-5;GY = Guyana
+Water, lake, HK;m3;007732-18-5;HK = Hong Kong
+Water, lake, HN;m3;007732-18-5;HN = Honduras
+Water, lake, HR;m3;007732-18-5;HR = Croatia
+Water, lake, HT;m3;007732-18-5;HT = Haiti
+Water, lake, HU;m3;007732-18-5;HU = Hungary
+Water, lake, ID;m3;007732-18-5;ID = Indonesia
+Water, lake, IE;m3;007732-18-5;IE = Ireland
+Water, lake, IL;m3;007732-18-5;IL = Israel
+Water, lake, IM;m3;007732-18-5;IM = Isle of Man
+Water, lake, IN;m3;007732-18-5;IN = India
+Water, lake, IQ;m3;007732-18-5;IQ = Iraq
+Water, lake, IR;m3;007732-18-5;IR = Iran (Islamic Republic of)
+Water, lake, IS;m3;007732-18-5;IS = Iceland
+Water, lake, IT;m3;007732-18-5;IT = Italy
+Water, lake, JM;m3;007732-18-5;JM = Jamaica
+Water, lake, JO;m3;007732-18-5;JO = Jordan
+Water, lake, JP;m3;007732-18-5;JP = Japan
+Water, lake, KE;m3;007732-18-5;KE = Kenya
+Water, lake, KG;m3;007732-18-5;KG = Kyrgyzstan
+Water, lake, KH;m3;007732-18-5;KH = Cambodia
+Water, lake, KM;m3;007732-18-5;KM = Comoros
+Water, lake, KP;m3;007732-18-5;KP = Korea, Democratic People's Republic of
+Water, lake, KR;m3;007732-18-5;KR = Korea, Republic of
+Water, lake, KW;m3;007732-18-5;KW = Kuwait
+Water, lake, KZ;m3;007732-18-5;KZ = Kazakhstan
+Water, lake, LA;m3;007732-18-5;LA = Lao People's Democratic Republic
+Water, lake, LB;m3;007732-18-5;LB = Lebanon
+Water, lake, LI;m3;007732-18-5;LI = Liechtenstein
+Water, lake, LK;m3;007732-18-5;LK = Sri Lanka
+Water, lake, LR;m3;007732-18-5;LR = Liberia
+Water, lake, LS;m3;007732-18-5;LS = Lesotho
+Water, lake, LT;m3;007732-18-5;LT = Lithuania
+Water, lake, LU;m3;007732-18-5;LU = Luxembourg
+Water, lake, LV;m3;007732-18-5;LV = Latvia
+Water, lake, LY;m3;007732-18-5;LY = Libya
+Water, lake, MA;m3;007732-18-5;MA = Morocco
+Water, lake, MC;m3;007732-18-5;MC = Monaco
+Water, lake, MD;m3;007732-18-5;MD = Moldova, Republic of
+Water, lake, MEA;m3;;
+Water, lake, MG;m3;007732-18-5;MG = Madagascar
+Water, lake, MK;m3;007732-18-5;MK = Macedonia, the Former Yugoslav Republic of
+Water, lake, ML;m3;007732-18-5;ML = Mali
+Water, lake, MM;m3;007732-18-5;MM = Myanmar
+Water, lake, MN;m3;007732-18-5;MN = Mongolia
+Water, lake, MO;m3;007732-18-5;MO = Macau
+Water, lake, MQ;m3;007732-18-5;MQ = Martinique
+Water, lake, MR;m3;007732-18-5;MR = Mauritania
+Water, lake, MT;m3;007732-18-5;MT = Malta
+Water, lake, MU;m3;007732-18-5;MU = Mauritius
+Water, lake, MV;m3;007732-18-5;MV = Maldives
+Water, lake, MW;m3;007732-18-5;MW = Malawi
+Water, lake, MX;m3;007732-18-5;MX = Mexico
+Water, lake, MY;m3;007732-18-5;MY = Malaysia
+Water, lake, MZ;m3;007732-18-5;MZ = Mozambique
+Water, lake, NA;m3;007732-18-5;NA = Namibia
+Water, lake, NC;m3;007732-18-5;NC = New Caledonia
+Water, lake, NE;m3;007732-18-5;NE = Niger
+Water, lake, NG;m3;007732-18-5;NG = Nigeria
+Water, lake, NI;m3;007732-18-5;NI = Nicaragua
+Water, lake, NL;m3;007732-18-5;NL = Netherlands
+Water, lake, NO;m3;007732-18-5;NO = Norway
+Water, lake, NORDEL;m3;007732-18-5;NORDEL = Nordic Countries Power Association
+Water, lake, NP;m3;007732-18-5;NP = Nepal
+Water, lake, NZ;m3;007732-18-5;NZ = New Zealand
+Water, lake, OCE;m3;007732-18-5;OCE = Oceania
+Water, lake, OM;m3;007732-18-5;OM = Oman
+Water, lake, PA;m3;007732-18-5;PA = Panama
+Water, lake, PAO;m3;;
+Water, lake, PAS;m3;;
+Water, lake, PE;m3;007732-18-5;PE = Peru
+Water, lake, PF;m3;007732-18-5;PF = French Polynesia
+Water, lake, PG;m3;007732-18-5;PG = Papua New Guinea
+Water, lake, PH;m3;007732-18-5;PH = Philippines
+Water, lake, PK;m3;007732-18-5;PK = Pakistan
+Water, lake, PL;m3;007732-18-5;PL = Poland
+Water, lake, PR;m3;007732-18-5;PR = Puerto Rico
+Water, lake, PS;m3;007732-18-5;PS = Palestinian Territory, Occupied
+Water, lake, PT;m3;007732-18-5;PT = Portugal
+Water, lake, PY;m3;007732-18-5;PY = Paraguay
+Water, lake, QA;m3;007732-18-5;QA = Qatar
+Water, lake, quality S1;m3;;
+Water, lake, quality S2a;m3;;
+Water, lake, quality S2b;m3;;
+Water, lake, quality S2c;m3;;
+Water, lake, quality S2d;m3;;
+Water, lake, quality S3;m3;;
+Water, lake, quality S4;m3;;
+Water, lake, quality S5;m3;;
+Water, lake, RAF;m3;007732-18-5;RAF = Africa
+Water, lake, RAS;m3;007732-18-5;RAS = Asia
+Water, lake, RE;m3;007732-18-5;RE = Reunion
+Water, lake, RER;m3;007732-18-5;RER = Europe
+Water, lake, RLA;m3;007732-18-5;RLA = Latin America and the Caribbean
+Water, lake, RME;m3;007732-18-5;RME = Middle East
+Water, lake, RNA;m3;007732-18-5;RNA = Northern America
+Water, lake, RNE;m3;;
+Water, lake, RO;m3;007732-18-5;RO = Romania
+Water, lake, RoW;m3;007732-18-5;RoW = Rest-of-World
+Water, lake, RU;m3;007732-18-5;RU = Russian Federation
+Water, lake, RW;m3;007732-18-5;RW = Rwanda
+Water, lake, SA;m3;007732-18-5;SA = Saudi Arabia
+Water, lake, SAS;m3;;
+Water, lake, SB;m3;007732-18-5;SB = Solomon Islands
+Water, lake, SD;m3;007732-18-5;SD = Sudan
+Water, lake, SE;m3;007732-18-5;SE = Sweden
+Water, lake, SG;m3;007732-18-5;SG = Singapore
+Water, lake, SI;m3;007732-18-5;SI = Slovenia
+Water, lake, SJ;m3;007732-18-5;SJ = Svalbard and Jan Mayen
+Water, lake, SK;m3;007732-18-5;SK = Slovakia
+Water, lake, SL;m3;007732-18-5;SL = Sierra Leone
+Water, lake, SM;m3;007732-18-5;SM = San Marino
+Water, lake, SN;m3;007732-18-5;SN = Senegal
+Water, lake, SO;m3;007732-18-5;SO = Somalia
+Water, lake, SR;m3;007732-18-5;SR = Suriname
+Water, lake, ST;m3;007732-18-5;ST = Sao Tome and Principe
+Water, lake, SV;m3;007732-18-5;SV = El Salvador
+Water, lake, SY;m3;007732-18-5;SY = Syrian Arab Republic
+Water, lake, SZ;m3;007732-18-5;SZ = Swaziland
+Water, lake, TD;m3;007732-18-5;TD = Chad
+Water, lake, TF;m3;007732-18-5;TF = French Southern Territories
+Water, lake, TG;m3;007732-18-5;TG = Togo
+Water, lake, TH;m3;007732-18-5;TH = Thailand
+Water, lake, TJ;m3;007732-18-5;TJ = Tajikistan
+Water, lake, TL;m3;007732-18-5;TL = Timor-Leste
+Water, lake, TM;m3;007732-18-5;TM = Turkmenistan
+Water, lake, TN;m3;007732-18-5;TN = Tunisia
+Water, lake, TO;m3;007732-18-5;TO = Tonga
+Water, lake, TR;m3;007732-18-5;TR = Turkey
+Water, lake, TT;m3;007732-18-5;TT = Trinidad and Tobago
+Water, lake, TW;m3;007732-18-5;TW = Taiwan, Province of China
+Water, lake, TZ;m3;007732-18-5;TZ = Tanzania, United Republic Of
+Water, lake, UA;m3;007732-18-5;UA = Ukraine
+Water, lake, UG;m3;007732-18-5;UG = Uganda
+Water, lake, US;m3;007732-18-5;US = United States
+Water, lake, UY;m3;007732-18-5;UY = Uruguay
+Water, lake, UZ;m3;007732-18-5;UZ = Uzbekistan
+Water, lake, VE;m3;007732-18-5;VE = Venezuela
+Water, lake, VN;m3;007732-18-5;VN = Viet Nam
+Water, lake, VU;m3;007732-18-5;VU = Vanuatu
+Water, lake, WEU;m3;007732-18-5;WEU = Western Europe
+Water, lake, WS;m3;007732-18-5;WS = Samoa
+Water, lake, YE;m3;007732-18-5;YE = Yemen
+Water, lake, ZA;m3;007732-18-5;ZA = South Africa
+Water, lake, ZM;m3;007732-18-5;ZM = Zambia
+Water, lake, ZW;m3;007732-18-5;ZW = Zimbabwe
+Water, river;m3;007732-18-5;
+Water, river,  Europe without Switzerland;m3;;
+Water, river, AD;m3;007732-18-5;AD = Andorra
+Water, river, AE;m3;007732-18-5;AE = United Arab Emirates
+Water, river, AF;m3;007732-18-5;AF = Afghanistan
+Water, river, AFR;m3;;
+Water, river, AG;m3;007732-18-5;AG = Antigua and Barbuda
+Water, river, AL;m3;007732-18-5;AL = Albania
+Water, river, AM;m3;007732-18-5;AM = Armenia
+Water, river, AO;m3;007732-18-5;AO = Angola
+Water, river, AR;m3;007732-18-5;AR = Argentina
+Water, river, AT;m3;007732-18-5;AT = Austria
+Water, river, AU;m3;007732-18-5;AU = Australia
+Water, river, AZ;m3;007732-18-5;AZ = Azerbaijan
+Water, river, BA;m3;007732-18-5;BA = Bosnia and Herzegovina
+Water, river, BB;m3;007732-18-5;BB = Barbados
+Water, river, BD;m3;007732-18-5;BD = Bangladesh
+Water, river, BE;m3;007732-18-5;BE = Belgium
+Water, river, BF;m3;007732-18-5;BF = Burkina Faso
+Water, river, BG;m3;007732-18-5;BG = Bulgaria
+Water, river, BH;m3;007732-18-5;BH = Bahrain
+Water, river, BI;m3;007732-18-5;BI = Burundi
+Water, river, BJ;m3;007732-18-5;BJ = Benin
+Water, river, BN;m3;007732-18-5;BN = Brunei Darussalam
+Water, river, BO;m3;007732-18-5;BO = Bolivia, Plurinational State of
+Water, river, BR;m3;007732-18-5;BR = Brazil
+Water, river, BS;m3;007732-18-5;BS = Bahamas
+Water, river, BT;m3;007732-18-5;BT = Bhutan
+Water, river, BW;m3;007732-18-5;BW = Botswana
+Water, river, BY;m3;007732-18-5;BY = Belarus
+Water, river, BZ;m3;007732-18-5;BZ = Belize
+Water, river, CA;m3;007732-18-5;CA = Canada
+Water, river, CD;m3;007732-18-5;CD = Congo, Democratic Republic of the
+Water, river, CF;m3;007732-18-5;CF = Central African Republic
+Water, river, CG;m3;007732-18-5;CG = Congo
+Water, river, CH;m3;007732-18-5;CH = Switzerland
+Water, river, CI;m3;007732-18-5;CI = Cote d'Ivoire
+Water, river, CL;m3;007732-18-5;CL = Chile
+Water, river, CM;m3;007732-18-5;CM = Cameroon
+Water, river, CN;m3;007732-18-5;CN = China
+Water, river, CO;m3;007732-18-5;CO = Colombia
+Water, river, CPA;m3;;
+Water, river, CR;m3;007732-18-5;CR = Costa Rica
+Water, river, CS;m3;007732-18-5;CS = Serbia and Montenegro
+Water, river, CU;m3;007732-18-5;CU = Cuba
+Water, river, CV;m3;007732-18-5;CV = Cape Verde
+Water, river, CY;m3;007732-18-5;CY = Cyprus
+Water, river, CZ;m3;007732-18-5;CZ = Czech Republic
+Water, river, DE;m3;007732-18-5;DE = Germany
+Water, river, DJ;m3;007732-18-5;DJ = Djibouti
+Water, river, DK;m3;007732-18-5;DK = Denmark
+Water, river, DM;m3;007732-18-5;DM = Dominica
+Water, river, DO;m3;007732-18-5;DO = Dominican Republic
+Water, river, DZ;m3;007732-18-5;DZ = Algeria
+Water, river, EC;m3;007732-18-5;EC = Ecuador
+Water, river, EE;m3;007732-18-5;EE = Estonia
+Water, river, EEU;m3;;
+Water, river, EG;m3;007732-18-5;EG = Egypt
+Water, river, EH;m3;007732-18-5;EH = Western Sahara
+Water, river, ER;m3;007732-18-5;ER = Eritrea
+Water, river, ES;m3;007732-18-5;ES = Spain
+Water, river, ET;m3;007732-18-5;ET = Ethiopia
+Water, river, Europe without Switzerland;m3;007732-18-5;Europe without Switzerland = Europe without Switzerland
+Water, river, FI;m3;007732-18-5;FI = Finland
+Water, river, FJ;m3;007732-18-5;FJ = Fiji
+Water, river, FK;m3;007732-18-5;FK = Falkland Islands (Malvinas)
+Water, river, FR;m3;007732-18-5;FR = France
+Water, river, FSU;m3;;
+Water, river, GA;m3;007732-18-5;GA = Gabon
+Water, river, GB;m3;007732-18-5;GB = United Kingdom
+Water, river, GD;m3;007732-18-5;GD = Grenada
+Water, river, GE;m3;007732-18-5;GE = Georgia
+Water, river, GF;m3;007732-18-5;GF = French Guiana
+Water, river, GH;m3;007732-18-5;GH = Ghana
+Water, river, GL;m3;007732-18-5;GL = Greenland
+Water, river, GLO;m3;007732-18-5;GLO = Global
+Water, river, GM;m3;007732-18-5;GM = Gambia
+Water, river, GN;m3;007732-18-5;GN = Guinea
+Water, river, GP;m3;007732-18-5;GP = Guadeloupe
+Water, river, GQ;m3;007732-18-5;GQ = Equatorial Guinea
+Water, river, GR;m3;007732-18-5;GR = Greece
+Water, river, GT;m3;007732-18-5;GT = Guatemala
+Water, river, GW;m3;007732-18-5;GW = Guinea-Bissau
+Water, river, GY;m3;007732-18-5;GY = Guyana
+Water, river, HK;m3;007732-18-5;HK = Hong Kong
+Water, river, HN;m3;007732-18-5;HN = Honduras
+Water, river, HR;m3;007732-18-5;HR = Croatia
+Water, river, HT;m3;007732-18-5;HT = Haiti
+Water, river, HU;m3;007732-18-5;HU = Hungary
+Water, river, ID;m3;007732-18-5;ID = Indonesia
+Water, river, IE;m3;007732-18-5;IE = Ireland
+Water, river, IL;m3;007732-18-5;IL = Israel
+Water, river, IM;m3;007732-18-5;IM = Isle of Man
+Water, river, IN;m3;007732-18-5;IN = India
+Water, river, IQ;m3;007732-18-5;IQ = Iraq
+Water, river, IR;m3;007732-18-5;IR = Iran (Islamic Republic of)
+Water, river, IS;m3;007732-18-5;IS = Iceland
+Water, river, IT;m3;007732-18-5;IT = Italy
+Water, river, JM;m3;007732-18-5;JM = Jamaica
+Water, river, JO;m3;007732-18-5;JO = Jordan
+Water, river, JP;m3;007732-18-5;JP = Japan
+Water, river, KE;m3;007732-18-5;KE = Kenya
+Water, river, KG;m3;007732-18-5;KG = Kyrgyzstan
+Water, river, KH;m3;007732-18-5;KH = Cambodia
+Water, river, KM;m3;007732-18-5;KM = Comoros
+Water, river, KP;m3;007732-18-5;KP = Korea, Democratic People's Republic of
+Water, river, KR;m3;007732-18-5;KR = Korea, Republic of
+Water, river, KW;m3;007732-18-5;KW = Kuwait
+Water, river, KZ;m3;007732-18-5;KZ = Kazakhstan
+Water, river, LA;m3;007732-18-5;LA = Lao People's Democratic Republic
+Water, river, LB;m3;007732-18-5;LB = Lebanon
+Water, river, LI;m3;007732-18-5;LI = Liechtenstein
+Water, river, LK;m3;007732-18-5;LK = Sri Lanka
+Water, river, LR;m3;007732-18-5;LR = Liberia
+Water, river, LS;m3;007732-18-5;LS = Lesotho
+Water, river, LT;m3;007732-18-5;LT = Lithuania
+Water, river, LU;m3;007732-18-5;LU = Luxembourg
+Water, river, LV;m3;007732-18-5;LV = Latvia
+Water, river, LY;m3;007732-18-5;LY = Libya
+Water, river, MA;m3;007732-18-5;MA = Morocco
+Water, river, MC;m3;007732-18-5;MC = Monaco
+Water, river, MD;m3;007732-18-5;MD = Moldova, Republic of
+Water, river, MEA;m3;;
+Water, river, MG;m3;007732-18-5;MG = Madagascar
+Water, river, MK;m3;007732-18-5;MK = Macedonia, the Former Yugoslav Republic of
+Water, river, ML;m3;007732-18-5;ML = Mali
+Water, river, MM;m3;007732-18-5;MM = Myanmar
+Water, river, MN;m3;007732-18-5;MN = Mongolia
+Water, river, MO;m3;007732-18-5;MO = Macau
+Water, river, MQ;m3;007732-18-5;MQ = Martinique
+Water, river, MR;m3;007732-18-5;MR = Mauritania
+Water, river, MT;m3;007732-18-5;MT = Malta
+Water, river, MU;m3;007732-18-5;MU = Mauritius
+Water, river, MV;m3;007732-18-5;MV = Maldives
+Water, river, MW;m3;007732-18-5;MW = Malawi
+Water, river, MX;m3;007732-18-5;MX = Mexico
+Water, river, MY;m3;007732-18-5;MY = Malaysia
+Water, river, MZ;m3;007732-18-5;MZ = Mozambique
+Water, river, NA;m3;007732-18-5;NA = Namibia
+Water, river, NC;m3;007732-18-5;NC = New Caledonia
+Water, river, NE;m3;007732-18-5;NE = Niger
+Water, river, NG;m3;007732-18-5;NG = Nigeria
+Water, river, NI;m3;007732-18-5;NI = Nicaragua
+Water, river, NL;m3;007732-18-5;NL = Netherlands
+Water, river, NO;m3;007732-18-5;NO = Norway
+Water, river, NORDEL;m3;007732-18-5;NORDEL = Nordic Countries Power Association
+Water, river, NP;m3;007732-18-5;NP = Nepal
+Water, river, NZ;m3;007732-18-5;NZ = New Zealand
+Water, river, OCE;m3;007732-18-5;OCE = Oceania
+Water, river, OM;m3;007732-18-5;OM = Oman
+Water, river, PA;m3;007732-18-5;PA = Panama
+Water, river, PAO;m3;;
+Water, river, PAS;m3;;
+Water, river, PE;m3;007732-18-5;PE = Peru
+Water, river, PF;m3;007732-18-5;PF = French Polynesia
+Water, river, PG;m3;007732-18-5;PG = Papua New Guinea
+Water, river, PH;m3;007732-18-5;PH = Philippines
+Water, river, PK;m3;007732-18-5;PK = Pakistan
+Water, river, PL;m3;007732-18-5;PL = Poland
+Water, river, PR;m3;007732-18-5;PR = Puerto Rico
+Water, river, PS;m3;007732-18-5;PS = Palestinian Territory, Occupied
+Water, river, PT;m3;007732-18-5;PT = Portugal
+Water, river, PY;m3;007732-18-5;PY = Paraguay
+Water, river, QA;m3;007732-18-5;QA = Qatar
+Water, river, quality S1;m3;;
+Water, river, quality S2a;m3;;
+Water, river, quality S2b;m3;;
+Water, river, quality S2c;m3;;
+Water, river, quality S2d;m3;;
+Water, river, quality S3;m3;;
+Water, river, quality S4;m3;;
+Water, river, quality S5;m3;;
+Water, river, RAF;m3;007732-18-5;RAF = Africa
+Water, river, RAS;m3;007732-18-5;RAS = Asia
+Water, river, RE;m3;007732-18-5;RE = Reunion
+Water, river, RER;m3;007732-18-5;RER = Europe
+Water, river, RLA;m3;007732-18-5;RLA = Latin America and the Caribbean
+Water, river, RME;m3;007732-18-5;RME = Middle East
+Water, river, RNA;m3;007732-18-5;RNA = Northern America
+Water, river, RNE;m3;;
+Water, river, RO;m3;007732-18-5;RO = Romania
+Water, river, RoW;m3;007732-18-5;RoW = Rest-of-World
+Water, river, RU;m3;007732-18-5;RU = Russian Federation
+Water, river, RW;m3;007732-18-5;RW = Rwanda
+Water, river, SA;m3;007732-18-5;SA = Saudi Arabia
+Water, river, SAS;m3;;
+Water, river, SB;m3;007732-18-5;SB = Solomon Islands
+Water, river, SD;m3;007732-18-5;SD = Sudan
+Water, river, SE;m3;007732-18-5;SE = Sweden
+Water, river, SG;m3;007732-18-5;SG = Singapore
+Water, river, SI;m3;007732-18-5;SI = Slovenia
+Water, river, SJ;m3;007732-18-5;SJ = Svalbard and Jan Mayen
+Water, river, SK;m3;007732-18-5;SK = Slovakia
+Water, river, SL;m3;007732-18-5;SL = Sierra Leone
+Water, river, SM;m3;007732-18-5;SM = San Marino
+Water, river, SN;m3;007732-18-5;SN = Senegal
+Water, river, SO;m3;007732-18-5;SO = Somalia
+Water, river, SR;m3;007732-18-5;SR = Suriname
+Water, river, ST;m3;007732-18-5;ST = Sao Tome and Principe
+Water, river, SV;m3;007732-18-5;SV = El Salvador
+Water, river, SY;m3;007732-18-5;SY = Syrian Arab Republic
+Water, river, SZ;m3;007732-18-5;SZ = Swaziland
+Water, river, TD;m3;007732-18-5;TD = Chad
+Water, river, TF;m3;007732-18-5;TF = French Southern Territories
+Water, river, TG;m3;007732-18-5;TG = Togo
+Water, river, TH;m3;007732-18-5;TH = Thailand
+Water, river, TJ;m3;007732-18-5;TJ = Tajikistan
+Water, river, TL;m3;007732-18-5;TL = Timor-Leste
+Water, river, TM;m3;007732-18-5;TM = Turkmenistan
+Water, river, TN;m3;007732-18-5;TN = Tunisia
+Water, river, TO;m3;007732-18-5;TO = Tonga
+Water, river, TR;m3;007732-18-5;TR = Turkey
+Water, river, TT;m3;007732-18-5;TT = Trinidad and Tobago
+Water, river, TW;m3;007732-18-5;TW = Taiwan, Province of China
+Water, river, TZ;m3;007732-18-5;TZ = Tanzania, United Republic Of
+Water, river, UA;m3;007732-18-5;UA = Ukraine
+Water, river, UG;m3;007732-18-5;UG = Uganda
+Water, river, US;m3;007732-18-5;US = United States
+Water, river, UY;m3;007732-18-5;UY = Uruguay
+Water, river, UZ;m3;007732-18-5;UZ = Uzbekistan
+Water, river, VE;m3;007732-18-5;VE = Venezuela
+Water, river, VN;m3;007732-18-5;VN = Viet Nam
+Water, river, VU;m3;007732-18-5;VU = Vanuatu
+Water, river, WEU;m3;007732-18-5;WEU = Western Europe
+Water, river, WS;m3;007732-18-5;WS = Samoa
+Water, river, YE;m3;007732-18-5;YE = Yemen
+Water, river, ZA;m3;007732-18-5;ZA = South Africa
+Water, river, ZM;m3;007732-18-5;ZM = Zambia
+Water, river, ZW;m3;007732-18-5;ZW = Zimbabwe
+Water, turbine use, unspecified natural origin, AT;m3;007732-18-5;AT = Austria
+Water, turbine use, unspecified natural origin, AU;m3;007732-18-5;AU = Australia
+Water, turbine use, unspecified natural origin, BE;m3;007732-18-5;BE = Belgium
+Water, turbine use, unspecified natural origin, BG;m3;007732-18-5;BG = Bulgaria
+Water, turbine use, unspecified natural origin, BR;m3;007732-18-5;BR = Brazil
+Water, turbine use, unspecified natural origin, CA;m3;007732-18-5;CA = Canada
+Water, turbine use, unspecified natural origin, CH;m3;007732-18-5;CH = Switzerland
+Water, turbine use, unspecified natural origin, CZ;m3;007732-18-5;CZ = Czech Republic
+Water, turbine use, unspecified natural origin, DE;m3;007732-18-5;DE = Germany
+Water, turbine use, unspecified natural origin, DK;m3;007732-18-5;DK = Denmark
+Water, turbine use, unspecified natural origin, ES;m3;007732-18-5;ES = Spain
+Water, turbine use, unspecified natural origin, FI;m3;007732-18-5;FI = Finland
+Water, turbine use, unspecified natural origin, FR;m3;007732-18-5;FR = France
+Water, turbine use, unspecified natural origin, GB;m3;007732-18-5;GB = United Kingdom
+Water, turbine use, unspecified natural origin, GR;m3;007732-18-5;GR = Greece
+Water, turbine use, unspecified natural origin, HR;m3;007732-18-5;HR = Croatia
+Water, turbine use, unspecified natural origin, HU;m3;007732-18-5;HU = Hungary
+Water, turbine use, unspecified natural origin, IN;m3;007732-18-5;IN = India
+Water, turbine use, unspecified natural origin, IT;m3;007732-18-5;IT = Italy
+Water, turbine use, unspecified natural origin, JP;m3;007732-18-5;JP = Japan
+Water, turbine use, unspecified natural origin, LU;m3;007732-18-5;LU = Luxembourg
+Water, turbine use, unspecified natural origin, MX;m3;007732-18-5;MX = Mexico
+Water, turbine use, unspecified natural origin, NL;m3;007732-18-5;NL = Netherlands
+Water, turbine use, unspecified natural origin, NO;m3;007732-18-5;NO = Norway
+Water, turbine use, unspecified natural origin, NORDEL;m3;007732-18-5;NORDEL = Nordic Countries Power Association
+Water, turbine use, unspecified natural origin, PL;m3;007732-18-5;PL = Poland
+Water, turbine use, unspecified natural origin, PT;m3;007732-18-5;PT = Portugal
+Water, turbine use, unspecified natural origin, RO;m3;007732-18-5;RO = Romania
+Water, turbine use, unspecified natural origin, RoW;m3;007732-18-5;RoW = Rest-of-World
+Water, turbine use, unspecified natural origin, RS;m3;007732-18-5;RS = Serbia
+Water, turbine use, unspecified natural origin, RU;m3;007732-18-5;RU = Russian Federation
+Water, turbine use, unspecified natural origin, SE;m3;007732-18-5;SE = Sweden
+Water, turbine use, unspecified natural origin, SI;m3;007732-18-5;SI = Slovenia
+Water, turbine use, unspecified natural origin, SK;m3;007732-18-5;SK = Slovakia
+Water, unspecified natural origin, AT;m3;007732-18-5;AT = Austria
+Water, unspecified natural origin, AU;m3;007732-18-5;
+Water, unspecified natural origin, BE;m3;007732-18-5;
+Water, unspecified natural origin, BG;m3;007732-18-5;BG = Bulgaria
+Water, unspecified natural origin, BR;m3;007732-18-5;
+Water, unspecified natural origin, CA;m3;007732-18-5;CA = Canada
+Water, unspecified natural origin, CH;m3;007732-18-5;CH = Switzerland
+Water, unspecified natural origin, CZ;m3;007732-18-5;CZ = Czech Republic
+Water, unspecified natural origin, DE;m3;007732-18-5;
+Water, unspecified natural origin, DK;m3;007732-18-5;DK = Denmark
+Water, unspecified natural origin, ES;m3;007732-18-5;ES = Spain
+Water, unspecified natural origin, FI;m3;007732-18-5;FI = Finland
+Water, unspecified natural origin, GB;m3;007732-18-5;
+Water, unspecified natural origin, HR;m3;007732-18-5;HR = Croatia
+Water, unspecified natural origin, HU;m3;007732-18-5;
+Water, unspecified natural origin, IT;m3;007732-18-5;IT = Italy
+Water, unspecified natural origin, JP;m3;007732-18-5;JP = Japan
+Water, unspecified natural origin, LU;m3;007732-18-5;LU = Luxembourg
+Water, unspecified natural origin, MX;m3;007732-18-5;MX = Mexico
+Water, unspecified natural origin, NL;m3;007732-18-5;
+Water, unspecified natural origin, NO;m3;007732-18-5;NO = Norway
+Water, unspecified natural origin, PL;m3;007732-18-5;
+Water, unspecified natural origin, PT;m3;007732-18-5;PT = Portugal
+Water, unspecified natural origin, RO;m3;007732-18-5;RO = Romania
+Water, unspecified natural origin, RS;m3;007732-18-5;RS = Serbia
+Water, unspecified natural origin, RU;m3;007732-18-5;RU = Russian Federation
+Water, unspecified natural origin, SE;m3;007732-18-5;SE = Sweden
+Water, unspecified natural origin, SK;m3;007732-18-5;SK = Slovakia
+Water, well, in ground;m3;;
+Water, well, in ground, CN;m3;;
+Water, well, in ground, DK;m3;;
+Water, well, in ground, Europe without Switzerland;m3;;
+
+End
+
+
+Airborne emissions
+Carbon;kg;007440-44-0;Formula: C
+Carbon black;kg;001333-86-4;Formula: C 
+Carbon dioxide;kg;000124-38-9;Formula: CO2
+Carbon dioxide, biogenic;kg;000124-38-9;Formula: CO2
+Carbon dioxide, fossil;kg;000124-38-9;Formula: CO2
+Carbon dioxide, land transformation;kg;000124-38-9;Formula: CO2
+Carbon monoxide;kg;000630-08-0;Formula: CO
+Carbon monoxide, fossil;kg;000630-08-0;Formula: CO
+Dimethyl sulfide;kg;000075-18-3;"Formula: C2H6SSynonyms: 2-Thiapropane; Dimethyl Sulfide; Dimethyl Sulfide 10%; DMS; methyl sulfide; Methyl thioether; Methylthiomethane; thiobismethane; Thiopropane"
+Dinitrogen monoxide;kg;010024-97-2;Formula: N2O
+Ethane, 1-chloro-1,1-difluoro-, HCFC-142b;kg;000075-68-3;"Formula: C2H3ClF2Synonyms: 1,1,1-chlorodifluoroethane; 1,1-Difluoro-1-chloroethane; 1-Chloro-1,1-difluoroethane; Difluoro-1-chloroethane; Chloro-1,1-difluoroethane, 1- ; Freon 142; Freon 142b; Genetron 101; Genetron 142B; HCFC-142b; R-142b; "
+Ethane, 1,1-dichloro-1-fluoro-, HCFC-141b;kg;001717-00-6;Formula: C2H3Cl2F
+Ethane, 1,1,1-trichloro-, HCFC-140;kg;000071-55-6;Formula: C2H3Cl3
+Ethane, 1,1,2-trichloro-1,2,2-trifluoro-, CFC-113;kg;000076-13-1;Formula: C2Cl3F3
+Ethane, 1,2-dibromotetrafluoro-, Halon 2402;kg;000124-73-2;Formula: C2Br2F4 also CAS-number 025497-30-7
+Ethane, 1,2-dichloro-1,1,2,2-tetrafluoro-, CFC-114;kg;000076-14-2;Formula: C2Cl2F4
+Ethane, chloropentafluoro-, CFC-115;kg;000076-15-3;Formula: C2ClF5
+Methane;kg;000074-82-8;Formula: CH4
+Methane, bromo-, Halon 1001;kg;000074-83-9;Formula: CH3Br
+Methane, bromochlorodifluoro-, Halon 1211;kg;000353-59-3;Formula: CBrClF2
+Methane, bromotrifluoro-, Halon 1301;kg;000075-63-8;Formula: CBrF3
+Methane, chlorodifluoro-, HCFC-22;kg;000075-45-6;Formula: CHClF2
+Methane, chlorotrifluoro-, CFC-13;kg;000075-72-9;Formula: CClF3
+Methane, dibromodifluoro-, Halon 1202;kg;000075-61-6;Formula: CBr2F2 
+Methane, dichlorodifluoro-, CFC-12;kg;000075-71-8;Formula: CCl2F2
+Methane, dichlorofluoro-, HCFC-21;kg;000075-43-4;Formula: CHCl2F
+Methane, fossil;kg;000074-82-8;Formula: CH4
+Methane, monochloro-, R-40;kg;000074-87-3;Formula: CH3Cl
+Methane, tetrachloro-, CFC-10;kg;000056-23-5;"Formula: CCl4Synonyms: Benzinoform; carbona; carbon chloride; Carbon tet; Carbon tetrachloride; Carbon tetrachloride ; flukoids; Methane tetrachloride; necatorine; Necatorina; Perchloromethane; CFC-10; r 10 (refrigerant); Refrigerant R10; tetrachlorocarbon; Tetrachloromethane; tetrafinol; tetraform; tetrasol; univerm; vermoestricid; "
+Methane, trichlorofluoro-, CFC-11;kg;000075-69-4;Formula: CCl3F
+Nitrate;kg;014797-55-8;Formula: NO3 -
+Nitrogen dioxide;kg;010102-44-0;"Formula: NO2Synonyms: Nitrogen Dioxide; Nitrogen Dioxide (+ Cyl.), 99.5%; Nitrogen dioxide ; Nitrogen oxide; Nitrogen oxide (NO2); Nitrogen peroxide;"
+Nitrogen fluoride;kg;007783-54-2;"Formula: F3N Synonyms: Nitrogen fluoride; Nitrogen Trifluoride; Trifluoramine; Trifluorammonia;"
+Nitrogen monoxide;kg;010102-43-9;"Formula: NO*Synonyms: Mononitrogen monoxide; Nitric Oxide; Nitric oxide ; nitrogen monoxide; Nitrogen oxide; Nitrogen oxide (NO); NO;"
+Nitrogen oxides;kg;011104-93-1;Formula: NOx as NO2
+NMVOC, non-methane volatile organic compounds, unspecified origin;kg;;
+Organic carbon;kg;;
+Particulates, < 10 um, land transformation;kg;;
+Particulates, < 2.5 um;kg;;Formula: PM2.5
+Particulates, < 2.5 um, land transformation;kg;;
+Particulates, > 10 um;kg;;Formula: TPM-PM10
+Particulates, > 2.5 um, and < 10 um, land transformation;kg;;
+Particulates, > 2.5 um, and < 10um;kg;;Formula: PM10-PM2.5
+Sulfate;kg;018785-72-3;Formula: SO4--
+Sulfur dioxide;kg;007446-09-5;Formula: SO2
+Sulfur hexafluoride;kg;002551-62-4;Formula: SF6
+TOC, Total Organic Carbon;kg;007440-44-0;
+
+End
+
+
+Waterborne emissions
+Nitrate;kg;014797-55-8;Formula: NO3 -
+Nitrogen, total;kg;;Synonyms: N-tot
+Nitrogen, total from WWTP;kg;;
+Phosphate;kg;014265-44-2;Formula: PO4 3-
+Phosphorus;kg;007723-14-0;Formula: P
+Phosphorus compounds, unspecified;kg;;
+Phosphorus, total;kg;;Synonyms: P-tot
+Phosphorus, total from WWTP;kg;;
+Water, CH;m3;007732-18-5;CH = Switzerland
+
+End
+
